@@ -1,4 +1,4 @@
-package com.in28minutes.spring.basic.springdemo;
+package com.in28minutes.spring.springdemo.basic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

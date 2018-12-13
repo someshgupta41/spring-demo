@@ -1,4 +1,4 @@
-package com.in28minutes.spring.basic.springdemo;
+package com.in28minutes.spring.springdemo.basic;
 
 public interface SortAlgorithm {
 	public default int [] sort( int [] numbers) {

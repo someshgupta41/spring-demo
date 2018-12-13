@@ -1,4 +1,4 @@
-package com.in28minutes.spring.basic.springdemo;
+package com.in28minutes.spring.springdemo.basic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
